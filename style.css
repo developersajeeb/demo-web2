@@ -33,8 +33,7 @@ h2 {
 header {
     background-image: url(images/banner/banner3.png);
     text-align: right;
-    padding: 12% 10% 12% 60%;
-    padding-left: 60%;
+    padding: 12% 12% 12% 54%;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -124,7 +123,7 @@ section.cta h2 {
 
 footer {
     background-color: #151414;
-    padding: 6% 12%;
+    padding: 8% 12%;
     display: flex;
 }
 
