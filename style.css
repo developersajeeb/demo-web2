@@ -124,7 +124,7 @@ section.cta h2 {
 
 footer {
     background-color: #151414;
-    padding: 6% 8%;
+    padding: 6% 12%;
     display: flex;
 }
 
@@ -134,7 +134,7 @@ footer {
 }
 
 .footer-left p {
-    width: 55%;
+    width: 62%;
 }
 
 .contact-info {
